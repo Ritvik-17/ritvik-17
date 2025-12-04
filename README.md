@@ -1,4 +1,3 @@
-# About Me:
 Hello there!<br><br>I’m an entrepreneur, full-stack developer and love marketing and sales. I have been coding for half a decade and have made multiple websites and operation intensive start-ups. <br><br>I would love to learn by working as and in a team 🤝
 
 
